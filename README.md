@@ -53,7 +53,7 @@ Python – Core implementation
 ⚙ Installation
 
 # Clone repo
-git clone https://github.com/username/License-plate-recognition.git
+git clone https://github.com/username/License-Plate-Recognition.git
 cd repo-name
 
 # Create virtual environment (optional)
@@ -94,3 +94,4 @@ SORT tracking algorithm
 
 
 ⚡ Built with passion for Computer Vision & AI 🚀
+
