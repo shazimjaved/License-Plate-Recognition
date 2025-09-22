@@ -21,7 +21,7 @@ An end-to-end Computer Vision project that detects vehicles, extracts license pl
 
 Detection + Recognition Overlay
 
-![Demo](assets/demo.png)
+![Demo](demo.png)
 
 ---
 
@@ -91,5 +91,6 @@ OpenCV community
 
 SORT tracking algorithm
 ---
+
 
 ⚡ Built with passion for Computer Vision & AI 🚀
