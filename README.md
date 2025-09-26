@@ -91,7 +91,8 @@ OpenCV community
 
 SORT tracking algorithm
 ---
-
+Made with 🤎 By Shazim Javed
 
 ⚡ Built with passion for Computer Vision & AI 🚀
+
 
